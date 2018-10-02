@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+    main:
+        build: "."
+        container_name: "puppeteer_example"
+        volumes:
+         - "./app/script:/usr/src/app/script"
+         - "./app/data:/usr/src/app/data"
+        tty: true
