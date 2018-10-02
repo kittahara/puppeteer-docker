@@ -15,6 +15,7 @@ puppeteer and node_docker
 
 3. execute app.js
 > root@xxxxxxxxxx:/# cd /usr/src/app/script/
+
 > root@xxxxxxxxxx:/usr/src/app/script# node app.js
 
 
