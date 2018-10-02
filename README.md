@@ -7,6 +7,7 @@ puppeteer and node_docker
 ## how to use
 1. docker up
 > docker-compose build
+
 > docker-compose up
 
 2. login node container 
